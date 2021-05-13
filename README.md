@@ -1,12 +1,15 @@
 ### Hi there, i'm Dastan 👋
-I'm a programmer thats works with Python.
+I'm a programmer thats enjoys working with Python.
 
 - 👦 My pronouns are He/Him.
-- 🔭 I’m currently working on Discord bot called Boribay.
-- 🌱 I’m currently learning Python with Discord.py library.
+- 🔭 I’m currently exploring the magic of Python.
 
 [![Most used languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=Dositan&theme=onedark&layout=compact)](https://github.com/Dositan)
 
 #### My dev setup:
-- I use Windows 10 lol
-- Sublime Text 3 for the quick fixes/small projects and VSCode as a main code editor.
+- OS: Windows 10
+- Text editor: Mainly VSCode and sometimes Sublime Text 3 for the quick fixes/small projects.
+
+### Contacts
+E-mail: ozgdastan@gmail.com
+Discord: [here](https://discord.com/users/682950658671902730)
