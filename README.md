@@ -11,5 +11,5 @@ I'm a programmer thats enjoys working with Python.
 - Text editor: Mainly VSCode and sometimes Sublime Text 3 for the quick fixes/small projects.
 
 ### Contacts
-E-mail: ozgdastan@gmail.com
-Discord: [here](https://discord.com/users/682950658671902730)
+- E-mail: ozgdastan@gmail.com
+- Discord: [here](https://discord.com/users/682950658671902730)
